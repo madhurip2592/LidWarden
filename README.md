@@ -1,2 +1,2 @@
 # LidWarden
-Reen design is landing page using HTML CSS and its a complete responsive design
+Tusbic is landing page using HTML CSS and its a complete responsive design
